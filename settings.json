@@ -1,0 +1,15 @@
+{
+  "editor.fontFamily": "Source Code Pro for Powerline",
+  "files.autoSave": "afterDelay",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.fontSize": 14,
+  "editor.formatOnSave": true,
+  "workbench.colorTheme": "Sublime Material Theme - Dark",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.fontWeight": "500",
+  "editor.tabSize": 2,
+  "liveServer.settings.donotVerifyTags": true,
+  "files.associations": {
+      "*.js": "javascriptreact"
+  }
+}
